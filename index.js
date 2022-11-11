@@ -76,7 +76,7 @@ loadDatabase()
     const jobotz = makeWASocket({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['THE JO BOT V10', 'Safari','1.0.0'],
+        browser: ['AxeZzz', 'Safari','1.0.0'],
         auth: state
     })
 
